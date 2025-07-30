@@ -1,0 +1,5 @@
+myenv
+*.pkl
+movies.pkl
+movie_dict.pkl
+similarity.pkl
