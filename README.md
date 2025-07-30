@@ -1,3 +1,5 @@
+Watch a quick demo of how it works here: [Video Link] (https://www.reddit.com/user/Shot-Front5786/comments/1md2cfl/movie_recommender_system/)
+
 # 🎬 Movie Recommender System
 
 A content-based movie recommendation system built using Python and Streamlit, powered by TMDB (The Movie Database) API. This app suggests similar movies based on your selection and provides posters and overviews using real-time API data.
